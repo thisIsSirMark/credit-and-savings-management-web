@@ -8,6 +8,7 @@ public class CreditAndSavingsManagementWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CreditAndSavingsManagementWebApplication.class, args);
+		System.out.println("Hello world!");
 	}
 
 }
