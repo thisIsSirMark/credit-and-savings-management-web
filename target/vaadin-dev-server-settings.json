@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/Khaye/OneDrive/Desktop/jayson/IntelijProgFiles/credit-and-savings-management-web-final/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Khaye/OneDrive/Desktop/jayson/IntelijProgFiles/credit-and-savings-management-web-final/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Khaye/OneDrive/Desktop/jayson/IntelijProgFiles/credit-and-savings-management-web-final/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Khaye\\OneDrive\\Desktop\\jayson\\IntelijProgFiles\\credit-and-savings-management-web-final\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Khaye\\OneDrive\\Desktop\\jayson\\IntelijProgFiles\\credit-and-savings-management-web-final\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Khaye/OneDrive/Desktop/jayson/IntelijProgFiles/credit-and-savings-management-web-final/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Khaye/OneDrive/Desktop/jayson/IntelijProgFiles/credit-and-savings-management-web-final/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/Khaye/OneDrive/Desktop/jayson/IntelijProgFiles/credit-and-savings-management-web-final/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\Khaye\\OneDrive\\Desktop\\jayson\\IntelijProgFiles\\credit-and-savings-management-web-final\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
